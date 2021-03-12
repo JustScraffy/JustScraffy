@@ -12,7 +12,7 @@
 
 ## 📆 My projects
 
-- Discord bot Honimír + staff member => Úžasná Pouť Internetem
+- Discord bot `Honimír` + Staff Member => Úžasná Pouť Internetem
 
 
 
