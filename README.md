@@ -1,16 +1,18 @@
-### Hi there 👋
+# justScraffy
 
-<!--
-**JustScraffy/JustScraffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student, Guitarist, Developer
 
-Here are some ideas to get you started:
+## My experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`65%` - Discord.js
+`45%` - JavaScript
+`37%` - HTML, CSS
+`15%` - PHP
+`10%` - Java (learning)
+
+## My projects
+
+- Discord bot Honimír + staff member => Úžasná Pouť Internetem
+
+Do you want create something amazing?
+Just contact me!
