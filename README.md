@@ -16,5 +16,5 @@
 
 
 
-Do you want create something amazing?
-Just contact me!
+- Do you want create something amazing?
+- Just contact me!
