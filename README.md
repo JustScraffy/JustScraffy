@@ -1,6 +1,6 @@
 # justScraffy
 
-### Student, Guitarist, Developer
+### Student, Guitarist, Developer, Gamer
 
 ## 🔧 My experience
 
