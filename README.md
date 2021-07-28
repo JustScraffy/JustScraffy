@@ -7,7 +7,7 @@
 - `45%` - JavaScript
 - `37%` - HTML, CSS
 - `10%` - Java (learning)
-- `5%` - PHP
+- `0%` - PHP
 
 ## 📆 My projects
 
@@ -15,5 +15,4 @@
 
 
 
-- Do you want create something amazing?
-- Just contact me!
+- Contact me for more informations!
