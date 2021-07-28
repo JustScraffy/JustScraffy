@@ -4,11 +4,10 @@
 
 ## 🔧 My experience
 
-- `65%` - Discord.js
 - `45%` - JavaScript
 - `37%` - HTML, CSS
-- `15%` - PHP
 - `10%` - Java (learning)
+- `5%` - PHP
 
 ## 📆 My projects
 
