@@ -1,4 +1,4 @@
-# justScraffy
+# JustScraffy
 
 ### Student, Guitarist, Developer, Gamer
 
