@@ -25,4 +25,3 @@
 
 - Discord — ●⬤ Scraffy ⬤●#8672
 - Instagram — @just.scraffy
-- Web — https://scraffy.ml
