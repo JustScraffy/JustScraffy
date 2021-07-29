@@ -11,8 +11,14 @@
 
 ## 📆 My projects
 
-- Discord bot `Honimír` + Staff Member => Úžasná Pouť Internetem
+- Owner — Let's study
+- Owner — Netflix Kavárna
+- Owner — OMS FANS DISCORD
+- Staff member — Úžasná Pouť Internetem
+- Staff member — The Developers
+- Staff member — The Designers
+- Staff member — Argonia.cz
 
 
-
+- Do you want create something amazing?
 - Contact me for more informations!
