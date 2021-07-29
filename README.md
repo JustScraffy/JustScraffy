@@ -2,14 +2,14 @@
 
 ### Student, Guitarist, Developer, Gamer
 
-## 🔧 My experience
+## 🔧 — My experience
 
-- `45%` - JavaScript
+- `65%` - JavaScript
 - `37%` - HTML, CSS
 - `10%` - Java (learning)
-- `0%` - PHP
+- `2%` - PHP
 
-## 📆 My projects
+## 📆 — My projects
 
 - Owner — Let's study
 - Owner — Netflix Kavárna
@@ -20,5 +20,9 @@
 - Staff member — Argonia.cz
 
 
+## ✨ — Contact
 - Do you want create something amazing?
-- Contact me for more informations!
+
+- Discord — ●⬤ Scraffy ⬤●#8672
+- Instagram — @just.scraffy
+- Web — https://scraffy.ml
