@@ -13,15 +13,14 @@
 
 - Owner — Let's study
 - Owner — Netflix Kavárna
-- Owner — OMS FANS DISCORD
+- Owner — OneManShow Fans Discord
 - Staff member — Úžasná Pouť Internetem
-- Staff member — The Developers
 - Staff member — The Designers
 - Staff member — Argonia.cz
 
 
 ## ✨ — Contact
-- Do you want create something amazing?
+- Do you want to create something amazing?
 
 - Discord — ●⬤ Scraffy ⬤●#8672
 - Instagram — @just.scraffy
