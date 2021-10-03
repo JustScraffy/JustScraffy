@@ -16,7 +16,6 @@
 - Owner — OneManShow Fans Discord
 - Staff member — Úžasná Pouť Internetem
 - Staff member — The Designers
-- Staff member — Argonia.cz
 
 
 ## ✨ — Contact
