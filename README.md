@@ -7,11 +7,10 @@
 - `65%` - JavaScript
 - `37%` - HTML, CSS
 - `10%` - Java (learning)
-- `2%` - PHP
 
 ## 📆 — My projects
 
-- Owner — Let's study
+- Owner — Let's Study ( https://dsc.gg/uceni/ )
 - Owner — Netflix Kavárna
 - Owner — OneManShow Fans Discord
 - Staff member — Úžasná Pouť Internetem
@@ -19,7 +18,7 @@
 
 
 ## ✨ — Contact
-- Do you want to create something amazing?
+- Do you wanna create something amazing? Just contact me! <3
 
-- Discord — ●⬤ Scraffy ⬤●#8672
+- Discord — Scraffy#8672
 - Instagram — @just.scraffy
