@@ -2,11 +2,13 @@
 
 ### Student, Guitarist, Developer, Gamer
 
+
 ## 🔧 — My experience
 
-- `65%` - JavaScript
-- `37%` - HTML, CSS
+- `40%` - HTML, CSS
+- `25%` - JavaScript
 - `10%` - Java (learning)
+
 
 ## 📆 — My projects
 
