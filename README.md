@@ -5,8 +5,9 @@
 
 ## 🔧 — My experience
 
-- `40%` - HTML, CSS
-- `25%` - JavaScript
+- `25%` - NodeJS
+- `20%` - HTML, CSS
+- `10%` - C# (learning)
 - `10%` - Java (learning)
 
 
@@ -22,5 +23,4 @@
 ## ✨ — Contact
 - Do you wanna create something amazing? Just contact me! <3
 
-- Discord — Scraffy#8672
 - Instagram — @just.scraffy
