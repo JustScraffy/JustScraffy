@@ -16,7 +16,7 @@
 - Owner — Let's Study ( https://dsc.gg/uceni/ )
 - Owner — Netflix Kavárna
 - Owner — OneManShow Fans Discord
-- Owner - The Develoeprs
+- Owner - The Developers
 - Staff member — Úžasná Pouť Internetem
 - Staff member — The Designers
 
