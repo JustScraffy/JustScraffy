@@ -14,9 +14,9 @@
 ## 📆・My projects
 
 - Owner — Let's Study ( https://discord.gg/uceni )
-- Owner — Netflix Kavárna
-- Owner — OneManShow Fans Discord
-- Owner - The Developers
+- Owner — Netflix kavárna
+- Owner — OMS Fans Discord
+- Owner — The Developers
 - Staff member — Úžasná Pouť Internetem
 - and more!
 
