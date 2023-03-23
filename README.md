@@ -6,20 +6,20 @@
 
 ## 🔧・My experience
 
-- `40%` ・ C#
-- `25%` ・ NodeJS
-- `20%` ・ HTML, CSS
-- `10%` ・ MySQL
+- `50%` ・ C#
+- `35%` ・ HTML, CSS, Bootstrap
+- `35%` ・ MySQL
+- `20%` ・ JS
 
 
 ## 📆・My projects
 
 - Owner ・ Let's Study ( https://discord.gg/uceni )
+- Owner ・ Let's Code
 - Owner ・ Netflix kavárna
 - Owner ・ OMS Fans Discord
-- Owner ・ The Developers
-- Staff member ・ Úžasná Pouť Internetem
-- Zk. Helper ・ Survival-Games.cz
+- Head Moderator ・ Úžasná Pouť Internetem
+- Helper ・ Survival-Games.cz
 - and more!
 
 
