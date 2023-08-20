@@ -7,10 +7,11 @@
 
 ## 📆・My projects
 
+- Owner ・ Let's Create NNO
 - Owner ・ Let's Study ( https://discord.gg/uceni )
 - Owner ・ Let's Code
 - Owner ・ Let's Watch
-- Owner ・ OMS Fans Discord
+
+- Owner ・ One Man Show: Fans Discord
 - Head Moderator ・ Úžasná Pouť Internetem
-- Helper ・ Survival-Games.cz
 - and more!
